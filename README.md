@@ -1,5 +1,5 @@
-# Autômatos Finitos
-Implementação de um autômato finito em JAVA com linguagem regular.
+# Simulador de autômatos finitos determinísticos (Máquinas de Estado Finito), autômatos de pilha (Máquinas de Pilha) e Máquinas de Turing.
+Implementação em linguagem JAVA.
 
 Sua principal função é identificar uma sequência de caracteres que formam uma palavra específica dentro de um texto.
 
@@ -11,7 +11,7 @@ Dado certo alfabeto, definido nesse caso por `Σ = {E, G, L, O, X}`, o código c
 - Edite o arquivo `.txt` "words" com palavras separadas por linha que serão analisadas pelo programa
 - Execute o arquivo `.java` "Run" para executar o programa
 
-# Exemplos de Aplicação
+# Funcionamento
 - Lendo a palvra `GOOGLLE` , sua saída será:
 ```xml
 GOOGLLE: nao valido
