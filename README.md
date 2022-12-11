@@ -1,4 +1,4 @@
-# Simulador de autômatos finitos determinísticos (Máquinas de Estado Finito), autômatos de pilha (Máquinas de Pilha) e Máquinas de Turing.
+# Simulação de Máquinas de Estado
 Implementação em linguagem JAVA.
 
 Sua principal função é identificar uma sequência de caracteres que formam uma palavra específica dentro de um texto.
